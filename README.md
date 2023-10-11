@@ -24,4 +24,6 @@ Practical_6 : There are flight paths between cities. If there is a flight betwee
 
 Practical_7 : Consider a scenario for Hospital to cater services to different kinds of patients as Serious (top priority), b) non-serious (medium priority), c) General Checkup (Least priority). Implement the priority queue to cater services to the patients.
 
-Practical_8 : Department  maintains  a  student  information.  The  file  contains  roll  number,  name, division  and  address.  Allow  user  to  add,  delete  information  of  student.  Display information  of  particular  employee.  If  record  of  student  does  not  exist  an  appropriate message is displayed. If it is, then the system displays the student details. Use sequential file to main the data.
+Practical_8 : Department  maintains  a  student  information.  The  file  contains  roll  number,  name, division  and  address.  Allow  user  to  add,  delete  information  of  student.  Display information  of particular  employee.  If  record  of  student  does  not  exist  an  appropriate message is displayed. If it is, then the system displays the student details. Use sequential file to main the data.
+
+Practical_9 : Given sequence k = k1 <k2 < … <kn of n sorted keys, with a search probability pi for each key ki . Build the Binary search tree that has the least search cost given the access probability for each key? 
